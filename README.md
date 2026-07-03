@@ -24,16 +24,28 @@
 
 ### Tech Stack
 
-**Languages**
+**Frontend** — mostly Next.js + React with TypeScript
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,kotlin,swift,dart,php&theme=dark" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark" alt="frontend" />
 </p>
 
-**Frameworks & Tools**
+**Backend** — mostly NestJS, with Go and Python for services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,react,flutter,express,nodejs,prisma,postgres,docker,git&theme=dark" alt="frameworks and tools" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,go,python,prisma,postgres&theme=dark" alt="backend" />
+</p>
+
+**Mobile** — React Native and Flutter, native with Kotlin & Swift
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,swift,dart&theme=dark" alt="mobile" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,postman&theme=dark" alt="tools" />
 </p>
 
 ---
