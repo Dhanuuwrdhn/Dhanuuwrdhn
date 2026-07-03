@@ -25,8 +25,16 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,swift,dart,ts,nextjs,nestjs,prisma&theme=dark" alt="tech stack" />
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,kotlin,swift,dart,php&theme=dark" alt="languages" />
+</p>
+
+**Frameworks & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,react,flutter,express,nodejs,prisma,postgres,docker,git&theme=dark" alt="frameworks and tools" />
 </p>
 
 ---
