@@ -30,10 +30,10 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark" alt="frontend" />
 </p>
 
-**Backend** — mostly NestJS, with Go and Python for services
+**Backend** — mostly NestJS, with Laravel, Go and Python for services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,go,python,prisma,postgres&theme=dark" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,laravel,go,python,prisma,postgres&theme=dark" alt="backend" />
 </p>
 
 **Mobile** — React Native and Flutter, native with Kotlin & Swift
