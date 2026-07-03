@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack & Mobile Developer from Jakarta, Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Mobile+Developer+%E2%80%A2+Flutter+%2F+Kotlin+%2F+Swift;Backend+Engineer+%E2%80%A2+NestJS+%2F+Prisma;Frontend+Developer+%E2%80%A2+Next.js+%2F+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=40&lines=Mobile+Developer+%E2%80%94+Flutter+%2F+Kotlin+%2F+Swift;Backend+Engineer+%E2%80%94+NestJS+%2F+Prisma;Frontend+Developer+%E2%80%94+Next.js+%2F+TypeScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
