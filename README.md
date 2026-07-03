@@ -48,19 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanuuwrdhn&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuuwrdhn&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanuuwrdhn&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -70,11 +57,10 @@
   <a href="https://github.com/Dhanuuwrdhn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <!-- Ganti # dengan link asli kalau ada -->
-  <a href="#">
+  <a href="https://www.linkedin.com/in/dhanuwardhana">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="#">
+  <a href="https://www.instagram.com/dhanuwrdhn/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </p>
