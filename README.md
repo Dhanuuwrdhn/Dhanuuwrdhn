@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portofolio-danu-mocha.vercel.app">
+  <a href="https://syahrialdanu.my.id">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Dhanuuwrdhn&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="views"/>
@@ -18,7 +18,7 @@
 
 - 🔭 I build **mobile apps** (Flutter, Kotlin, Swift) and **fullstack web** (Next.js + NestJS)
 - 🌱 Currently deep into **microservices**, **design systems**, and **clean architecture**
-- 🌐 Portfolio → **[portofolio-danu-mocha.vercel.app](https://portofolio-danu-mocha.vercel.app)**
+- 🌐 Portfolio → **[syahrialdanu.my.id](https://syahrialdanu.my.id)**
 - 📫 Reach me on the socials below
 
 ---
@@ -64,7 +64,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://portofolio-danu-mocha.vercel.app">
+  <a href="https://syahrialdanu.my.id">
     <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website"/>
   </a>
   <a href="https://github.com/Dhanuuwrdhn">
