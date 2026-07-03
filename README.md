@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syahrial Danu Wardhana</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hua8yZng346Vo10z9c/giphy.gif" width="35" alt="wave" />, I'm Syahrial Danu Wardhana</h1>
 <h3 align="center">Fullstack & Mobile Developer from Jakarta, Indonesia 🇮🇩</h3>
 
 <p align="center">
