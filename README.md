@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I build **mobile apps** (Flutter, Kotlin, Swift) and **fullstack web** (Next.js + NestJS)
+- 🔭 I build **mobile apps** (React Native, Flutter, Kotlin, Swift) and **fullstack web** (Next.js + NestJS)
 - 🌱 Currently deep into **microservices**, **design systems**, and **clean architecture**
 - 🌐 Portfolio → **[syahrialdanu.my.id](https://syahrialdanu.my.id)**
 - 📫 Reach me on the socials below
@@ -34,6 +34,7 @@
 
 **Frameworks**
 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
