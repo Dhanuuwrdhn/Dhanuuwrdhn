@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hua8yZng346Vo10z9c/giphy.gif" width="35" alt="wave" />, I'm Syahrial Danu Wardhana</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="wave" />, I'm Syahrial Danu Wardhana</h1>
 <h3 align="center">Fullstack & Mobile Developer from Jakarta, Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=40&lines=Mobile+Developer+%E2%80%94+Flutter+%2F+Kotlin+%2F+Swift;Backend+Engineer+%E2%80%94+NestJS+%2F+Prisma;Frontend+Developer+%E2%80%94+Next.js+%2F+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&height=40&lines=Frontend+%E2%80%94+Next.js+%2F+React+%2F+TypeScript;Backend+%E2%80%94+NestJS+%2F+Laravel+%2F+Go+%2F+Python;Mobile+%E2%80%94+React+Native+%2F+Flutter+%2F+Kotlin+%2F+Swift" alt="Typing SVG" />
 </p>
 
 <p align="center">
