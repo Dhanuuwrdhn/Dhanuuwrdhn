@@ -18,7 +18,7 @@
 
 - I build **mobile apps** (React Native, Flutter, Kotlin, Swift) and **fullstack web** (Next.js + NestJS)
 - Currently deep into **microservices**, **design systems**, and **clean architecture**
-- Portfolio → **[syahrialdanu.my.id](https://syahrialdanu.my.id)**
+- Portofolio → **[syahrialdanu.my.id](https://syahrialdanu.my.id)**
 
 ---
 
